@@ -1,2 +1,5 @@
-1-Lógica de Programação
-1-Git e GitHub
+1-Introdução ao BootCamp
+2-Live de inauguração
+3-Lógica de programação essencial
+4-Introdução ao Git e GitHub
+5-Primeiro repositório
